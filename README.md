@@ -1,5 +1,4 @@
 # OnboardAI-Mentor-Management
-ONBOARDAI - MENTOR MANAGEMENT
 ============================
 
 Bộ giao diện Mentor được thiết kế theo phong cách tím - trắng trong ảnh mẫu OnboardAI, gồm:
